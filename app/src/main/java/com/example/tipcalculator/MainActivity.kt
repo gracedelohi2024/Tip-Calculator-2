@@ -106,7 +106,7 @@ fun TipTimeLayout() {
                 .fillMaxWidth()
         )
 
-
+// Arrondi
         RoundTheTipRow(
             roundUP = roundUP,
             onRoundUpChanged = { roundUP = it },
